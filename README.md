@@ -1,8 +1,8 @@
-# 💫 About Me:
+# 🧑 About Me:
 Hello! I'm Alejandro Ospina Rojas, a frontend web developer passionate about creating unique and attractive online experiences. At 21 years old, I have accumulated experience in various technologies, including JavaScript, VueJS, Tipescript and node.js. I love learning new languages and tools that can help me take my skills to the next level and apply them to my entrepreneurship.<br><br>In addition to my technical skills, I have always enjoyed seeing things from a different point of view to create disruptive and attractive designs that stand out on the web. For me, the visual is everything, and I put a lot of effort into designing each user experience to ensure it is attractive, easy to use, and memorable.<br><br>Currently, I am focused on developing my own web development agency, where I apply my knowledge and skills to help clients create attractive and functional websites. I am passionate about entrepreneurship and am always looking for ways to improve and grow in my field.
 
 
-## 🌐 Socials:
+## 📱 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/alejospinaro/) 
 
 # 💻 Tech Stack:
