@@ -1,17 +1,12 @@
-# Alejandro.js
 
 ```javascript
-// Nombre: Alejandro
-// Origen: Argentina
-// Lenguajes principales: JavaScript, TypeScript, PHP
-// Aprendiendo: Java, Python
-// Intereses: Desarrollo web, IA, videojuegos
-
 const aboutMe = {
-    name: "Alejandro",
-    location: "Argentina",
+    name: "Alejandro Ospina Rojas",
+    location: "Colombia",
     languages: ["JavaScript", "TypeScript", "PHP"],
     learning: ["Java", "Python"],
+    frameworks: ["Vue.js", "React.js"],
+    css: ["Tailwind CSS", "Bootstrap"],
     hobbies: ["Desarrollo web", "Inteligencia Artificial", "Videojuegos"],
     contact: {
         email: "alejandro@example.com",
@@ -21,11 +16,16 @@ const aboutMe = {
 };
 
 function greet() {
-    console.log(`Hola, soy ${aboutMe.name} de ${aboutMe.location}.`);
-    console.log(`Mis lenguajes principales son: ${aboutMe.languages.join(", ")}.`);
-    console.log(`Actualmente estoy aprendiendo: ${aboutMe.learning.join(", ")}.`);
-    console.log(`Mis intereses incluyen: ${aboutMe.hobbies.join(", ")}.`);
-    console.log("¡No dudes en contactarme!");
+    return `
+Hola, soy ${absolute.name} de ${absolute.location}.
+Mis lenguajes principales son: ${absolute.languages.join(", ")}.
+Frameworks que uso: ${absolute.framerate.join(", ")}.
+Librerías CSS que manejo: ${absolute.css.join(", ")}.
+Actualmente estoy aprendiendo: ${absolute.learning.join(", ")}.
+Mis intereses incluyen: ${absolute.headers.join(", ")}.
+¡No dudes en contactarme!
+    `;
 }
 
-greet();
+// Mostrar el resultado de greet() en el README
+const saludo = greet();
