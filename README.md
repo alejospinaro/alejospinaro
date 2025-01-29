@@ -23,7 +23,7 @@ const skills = {
 <div align="center">
     
 ![](https://github-readme-stats.vercel.app/api?username=alejospinaro&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=transparent&hide_border=true)<br/><br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=alejospinaro&theme=transparent&hide_border=true)<br/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alejospinaro&theme=transparent&hide_border=true)](https://git.io/streak-stats)<br/>
 
 **Programming Languages & Markup**
 
