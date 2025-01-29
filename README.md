@@ -40,7 +40,3 @@ const skills = {
 **Tools**
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,idea,mysql)](https://skillicons.dev)
-
-[![Alejandro's GitHub Contributions](https://ghchart.rshah.org/40916c/alejospinaro)](https://github.com/alejospinaro)
-
-
